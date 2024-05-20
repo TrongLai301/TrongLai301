@@ -31,16 +31,24 @@
 </div>
 
 <br/>
+<hr/>
 
+<div align="center">
+<h2>🐍 My Contributions 🐍</h2>
+<br>
+ 
+![snake animation](https://github.com/TrongLai301/TrongLai301/blob/output/github-contribution-grid-snake.svg)
 
+<br/><br/><br/>
+</div>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=TrongLai301&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="readme stats" />
    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10](https://github-readme-stats.vercel.app/api?username=TrongLai301&theme=react&hide_border=false&include_all_commits=false&count_private=false)" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=TrongLai301&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="readme stats" />
   <br/>     
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongLai301&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
 </div>
@@ -48,8 +56,24 @@
 <hr/>
 <br/>
 <div align="center">
+<div>
 
 [![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=314a2ziu6w625nnz25pbl2qiyh4a&unique={true|1|on|yes})](https://github.com/kittinan/spotify-github-profile)
-    
+<div width=390>
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/trọng lại" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trọng lại" height="30" width="40" /></a>
+<a href="https://discord.gg/885402295603449887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="885402295603449887" height="30" width="40" /></a>
+</p>
 </div>
+
+   
+</div>
+
+
+ 
+  
+</div>
+
+
 <br/>
