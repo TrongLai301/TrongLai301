@@ -47,18 +47,26 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10](https://github-readme-stats.vercel.app/api?username=TrongLai301&theme=react&hide_border=false&include_all_commits=false&count_private=false)" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=TrongLai301&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="readme stats" />
-  <br/>     
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongLai301&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+ 
+ ![](https://github-readme-stats.vercel.app/api?username=Tronglai301&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tronglai301&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tronglai301&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 <br/><br/>
 <hr/>
 <br/>
 <div align="center">
-<div>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Tronglai301&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 [![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=314a2ziu6w625nnz25pbl2qiyh4a&unique={true|1|on|yes})](https://github.com/kittinan/spotify-github-profile)
+
+<div>
+
+<div>
+ 
 <div width=390>
   <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -67,13 +75,16 @@
 </p>
 </div>
 
+
+</div>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Tronglai301&icon=2&color=4)](https://visitcount.itsvg.in)
+
    
 </div>
-
-
- 
   
 </div>
-
 
 <br/>
