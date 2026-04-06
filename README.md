@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There...!;+I'm+FuZa!;+I'm+a+developer;+Love+anime..." />
 </h1>
 
-<h3 align="center">A Devloper love anime</h3>
+<h3 align="center">Just a normal guy</h3>
 
 <br/>
 
@@ -16,7 +16,9 @@
 
 💬 Ask me about **Node.js, React, Java... or anything**
 
-⚡ Fun fact **I'm a wibu**
+⚡ Fun fact: **I'm a wibu**
+
+[**My Profile**](https://tronglai301.github.io/Portfolio_FuZa/)
  </div>
  <hr/>
  <div align="center">
